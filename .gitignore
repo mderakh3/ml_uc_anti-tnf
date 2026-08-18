@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+._*
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# data and outputs
+*.txt
+*.csv
+*.xlsx
+*.arff
+*.rds
+*.RData
+*.tiff
+*.tif
+*.png
+*.pdf
