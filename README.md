@@ -1,6 +1,6 @@
 # Predicting anti-TNF therapy failure in ulcerative colitis
 
-R code for the study behind:
+R code for the study:
 
 > Derakhshan Nazari MH, Shahrokh S, Ghanbari-Maman L, Maleknia S, Ghorbaninejad M,
 > Meyfour A. **Prediction of anti-TNF therapy failure in ulcerative colitis patients
